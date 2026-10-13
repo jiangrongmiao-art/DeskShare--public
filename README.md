@@ -4,7 +4,7 @@
 [![Architecture](https://img.shields.io/badge/Architecture-Apple%20Silicon%20(ARM64)-black.svg)](https://apple.com)
 [![Engine](https://img.shields.io/badge/Engine-ScreenCaptureKit%20%2B%20CoreGraphics-orange.svg)]()
 [![Zero Dependency](https://img.shields.io/badge/Dependency-Zero%20pip%20packages-success.svg)]()
-[![Security](https://img.shields.io/badge/Security-Zero--Source--Leak%20%7C%20Ed25519%20%2B%20HMAC-brightgreen.svg)]()
+[![Security](https://img.shields.io/badge/Security-Zero--Source--Leak%20%7C%20Ed25519%20%2B%20Key--Share-brightgreen.svg)]()
 
 > **DeskShare** 是一款专为 macOS 设计的极速局域网屏幕推流与全功能远程控制工具。采用 Apple 原生 ScreenCaptureKit 录屏加速与 CoreGraphics 亚像素事件注入，无需安装任何额外依赖，局域网内任意设备（Windows、iPad、Mac、手机浏览器）即开即控。
 
@@ -35,7 +35,7 @@
 ### 1. 极速三步激活
 1. 双击运行 `DeskShare.app`，未授权时将自动弹出【商业授权激活】对话框；
 2. **此时您的本机专属机器码已自动复制到剪贴板**，请将机器码发送给管理员获取专属激活码；
-3. 复制管理员发放的激活码（以 `DS-LIC-V2.` 或 `DS-LIC.` 开头），切换回激活窗口，直接按 `⌘ + V` 粘贴并点击 **【立即激活】**；
+3. 复制管理员发放的激活码（以 `DS-LIC-V2.` 开头），切换回激活窗口，直接按 `⌘ + V` 粘贴并点击 **【立即激活】**；
 4. 提示激活成功，**软件自动启动，无需重启 App！**
 
 ### 2. 系统权限配置（仅需首次运行配置）

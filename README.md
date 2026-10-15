@@ -4,7 +4,7 @@
 [![Architecture](https://img.shields.io/badge/Architecture-Apple%20Silicon%20(ARM64)-black.svg)](https://apple.com)
 [![Engine](https://img.shields.io/badge/Engine-ScreenCaptureKit%20%2B%20CoreGraphics-orange.svg)]()
 [![Zero Dependency](https://img.shields.io/badge/Dependency-Zero%20pip%20packages-success.svg)]()
-[![Security](https://img.shields.io/badge/Security-Zero--Source--Leak%20%7C%20Ed25519%20%2B%20Key--Share-brightgreen.svg)]()
+[![Security](https://img.shields.io/badge/Security-Hardware--Bound%20%7C%20End--to--End%20Direct-brightgreen.svg)]()
 
 > **DeskShare** 是一款专为 macOS 深度定制的极速局域网屏幕推流与全功能远程控制工具。采用 Apple 原生 ScreenCaptureKit 录屏加速与 CoreGraphics 亚像素事件注入，无需安装任何额外依赖，局域网内任意设备（Windows PC、iPad、Mac、手机浏览器）即开即控。
 
@@ -66,3 +66,11 @@
 如需获取商业授权许可码（License Key）、企业定制或技术支持，请联系管理员或提交 Issue：
 - 📬 **GitHub Issues**：[提交工单反馈](../../issues)
 - 💼 **商业授权咨询**：请联系软件提供方获取专属卡密激活凭据。
+
+---
+
+## ⚖️ 免责声明与合规使用条款 (Disclaimer & Compliance)
+
+1. **合法用途**：本软件仅供个人多设备协同互联、家庭局域网管理以及获得明确授权的企业内部 IT 运维与技术支持使用。
+2. **严禁滥用**：严禁将本软件用于任何未经目标主机所有者明确授权的远程监控、网络偷窥、侵犯个人隐私或从事任何危害计算机网络安全的行为。因违反本条款产生的法律后果均由使用者自行承担。
+3. **隐私保障**：本软件推流与远程控制 100% 运行于本地局域网（P2P 直连），所有音画数据及按键鼠标指令绝不经由任何第三方公网服务器中转或存储，充分保障用户与企业的数据资产安全。
